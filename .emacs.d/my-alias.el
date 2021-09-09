@@ -1,1 +1,0 @@
-(defalias 'act 'pyvenv-workon)
